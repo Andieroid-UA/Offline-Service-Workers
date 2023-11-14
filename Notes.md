@@ -32,6 +32,16 @@ Install a lightweight node server
 
 ## Caching Assets for Offline Use
 
+http://127.0.0.1:8081/app/dist/app/browser/
+
+I've at least got a lead! On which folder to go to... isn't showing anything :/
+
+![Alt text](image-3.png)
+
+![Alt text](image-4.png)
+
+dangit...
+
 
 
 ## Caching Dynamic Assets & URLs
